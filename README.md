@@ -1,1 +1,1 @@
-# plotly_tutorial
+##  Small plotly ru_tutorial for data visualization 
